@@ -104,6 +104,7 @@ section h3{
 	background-color: white;
 	text-align: center;
 	font-family: FreeSans;
+	box-shadow: 2px 2px black;
 }
 
 section a:hover{
